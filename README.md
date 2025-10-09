@@ -6,7 +6,7 @@ This project explores whether U.S. high school performance on ACT/SAT exams is r
 ### 📊 Data  
 
 **1. EdGap_data.xlsx**  
-- Source: [DATA 5100 GitHub Repository](https://github.com/SU-Sociology/DATA-5100)  
+- Source: [GitHub Repository](https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx)  
 - Contains average ACT/SAT scores and socioeconomic data (income, unemployment, adult education, and family structure) from the 2016 EdGap.org report.  
 - Socioeconomic data are from the U.S. Census Bureau’s American Community Survey.
 
