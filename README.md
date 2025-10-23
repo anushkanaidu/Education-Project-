@@ -26,7 +26,7 @@ By the end of this project, we will understand how economic and social condition
 
 Education-project/
 
-    ├── Education/                # Core project folder
+    ├── Education/              # Core project folder
 
     ├── data/                   # Raw and processed data 
     
