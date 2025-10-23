@@ -30,11 +30,11 @@ Weather-project/
 
     ├── data/                   # Raw and processed data 
     
-    ├── code/                   # Jupyter notebooks and Python scripts
+    ├── Reports/                # Generated report and visualizations     
     
-    ├── requirements.txt        # Dependencies           
+    ├── code/                   # Jupyter notebooks and Python scripts          
     
-    ├── Weather Report.pdf      # Generated report and visualizations
+    ├── requirements.txt        # Dependencies  
     
     ├── License                 # Project license
     
