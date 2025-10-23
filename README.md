@@ -109,7 +109,7 @@ tend to have higher average test scores.
 ---
 
 ## License
-This project is licensed under the **MIT License** – see the ([LICENSE](https://github.com/anushkanaidu/Weather-project/blob/main/weather/License)) file for details.
+This project is licensed under the **MIT License** – see the ([LICENSE](https://github.com/anushkanaidu/Education-Project-/blob/main/Education/License)) file for details.
 
 ---
 
