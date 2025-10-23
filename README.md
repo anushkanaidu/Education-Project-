@@ -26,17 +26,17 @@ By the end of this project, we will understand how economic and social condition
 
 Weather-project/
 
-    ├── weather/                # Core project folder
+    ├── Education/                # Core project folder
 
     ├── data/                   # Raw and processed data 
     
     ├── Reports/                # Generated report and visualizations     
     
-    ├── code/                   # Jupyter notebooks and Python scripts          
+    ├── code/                   # Jupyter notebooks and Python scripts    
+
+    ├── License                 # Project license
     
     ├── requirements.txt        # Dependencies  
-    
-    ├── License                 # Project license
     
     └── README.md               # Project documentation 
 
