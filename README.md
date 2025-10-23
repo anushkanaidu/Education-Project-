@@ -53,10 +53,15 @@ The [ccd_sch_029_1617_w_1a_11212017.csv](https://www.dropbox.com/s/lkl5nvcdmwyob
 To run the code, install the following:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 statsmodels
 
 ---
@@ -114,7 +119,7 @@ This project is licensed under the **MIT License** – see the ([LICENSE](https:
 - [NumPy](https://numpy.org/)  
 - [Seaborn](https://seaborn.pydata.org/)  
 - [Matplotlib](https://matplotlib.org/)
-- [- [Scikit-learn](https://scikit-learn.org/stable/)  
+- [Scikit-learn](https://scikit-learn.org/stable/)  
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)  
 
 **Data Source:**  
