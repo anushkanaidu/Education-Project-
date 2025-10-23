@@ -28,15 +28,15 @@ Weather-project/
 
     ├── weather/                # Core project folder
 
+    ├── data/                   # Raw and processed data 
+    
     ├── code/                   # Jupyter notebooks and Python scripts
     
-    ├── data/                   # Raw and processed data
-    
-    ├── License                 # Project license
+    ├── requirements.txt        # Dependencies           
     
     ├── Weather Report.pdf      # Generated report and visualizations
     
-    ├── requirements.txt        # Dependencies
+    ├── License                 # Project license
     
     └── README.md               # Project documentation 
 
