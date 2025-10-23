@@ -24,7 +24,7 @@ By the end of this project, we will understand how economic and social condition
 ---
 ## Repository Structure
 
-Weather-project/
+Education-project/
 
     ├── Education/                # Core project folder
 
